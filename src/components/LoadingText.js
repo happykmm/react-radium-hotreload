@@ -19,6 +19,7 @@ var styles = {
     fontSize: 16,
     verticalAlign: 'middle',
     color: 'red',
+    marginLeft: 10,
     '@media print': {color: 'black'}
   }
 };
